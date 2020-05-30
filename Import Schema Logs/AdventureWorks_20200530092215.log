@@ -1,0 +1,10 @@
+30-05-2020 14:52:15	This log contains information about the import schema operation into project 'AdventureWorks' on computer 'DESKTOP-PJFS28Q' by user 'gaikw'.
+30-05-2020 14:52:15	Deserializing model
+30-05-2020 14:52:22	Resolving model
+30-05-2020 14:52:27	Visiting imported model for types
+30-05-2020 14:52:34	Scanning project for duplicate elements
+30-05-2020 14:52:34	Finished duplicate element processing
+30-05-2020 14:52:51	Processing extra files
+30-05-2020 14:52:51	Finished importing Data-tier Application file.
+30-05-2020 14:52:51	A summary of the import was saved to the following location: C:\Users\gaikw\Source\Repos\AdventureWorks\AdventureWorks\Import Schema Logs\AdventureWorks_20200530092215.log
+30-05-2020 14:52:51	Click Finish to continue...
